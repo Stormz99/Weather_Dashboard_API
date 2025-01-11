@@ -79,13 +79,19 @@ Weather: Clear skies
 
 ## Example Screenshots
 **AWS S3 Dashboard:**
-![AWS Dashboard](Weather_API_Dashboard/images/aws-dashboard.png)
+![AWS Dashboard](images/aws-dashboard.png)
 
 **5-Day Forecast Plots:**
 - **Philadelphia:**
-  ![Philadelphia Forecast](Weather_API_Dashboard/images/Philadelphia_forecast.png)
+  ![Philadelphia Forecast](images/Philadelphia_forecast.png)
+- **New York:**
+  ![New York Forecast](images/New_York_forecast.png)
 - **Seattle:**
-  ![Seattle Forecast](Weather_API_Dashboard/images/Seattle_forecast.png)
+  ![Seattle Forecast](images/Seattle_forecast.png)
+- **Berlin:**
+  ![Berlin Forecast](images/Berlin_forecast.png)
+- **Auckland:**
+  ![Auckland Forecast](images/Auckland_forecast.png)
 
 ## Notes
 - Ensure API keys and bucket names in the `.env` file are correct.
