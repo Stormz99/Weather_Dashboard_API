@@ -84,8 +84,6 @@ Weather: Clear skies
 **5-Day Forecast Plots:**
 - **Philadelphia:**
   ![Philadelphia Forecast](images/Philadelphia_forecast.png)
-- **New York:**
-  ![New York Forecast](images/New_York_forecast.png)
 - **Seattle:**
   ![Seattle Forecast](images/Seattle_forecast.png)
 - **Berlin:**
